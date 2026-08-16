@@ -1,3 +1,4 @@
+import React from 'react';
 import { HashRouter as BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { AppProvider } from './store/AppContext';
 import HomePage from './pages/public/HomePage';
